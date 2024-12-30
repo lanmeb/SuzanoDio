@@ -51,3 +51,7 @@ Projeto Conceitual de Banco de Dados – E-COMMERCE
 - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
 ![image](https://github.com/lanmeb/SuzanoDio/blob/main/Oficina.png)
+
+
+### Modelo lógico - Oficina
+![image](https://github.com/lanmeb/SuzanoDio/blob/main/Oficina_logico.png)
